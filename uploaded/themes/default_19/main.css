@@ -83,10 +83,20 @@
     pointer-events: none
 }
 
+.max {
+    color: rgba(9, 124, 181, 0.467)3c;
+    color: #a10707;
+    color: #0761a1;
+}
+
 h2.fsElementTitle {
     margin-top: 0;
     font-weight: 400;
+<<<<<<< HEAD
     color: #0761A1;
+=======
+    color: #0761a1;
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     font-size: 35px;
     line-height: 45px;
     margin-bottom: 15px
@@ -102,7 +112,11 @@ h1,
 h2 {
     margin-top: 0;
     font-weight: 400;
+<<<<<<< HEAD
     color: #0761A1;
+=======
+    color: #0761a1;
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     font-weight: 700
 }
 
@@ -121,7 +135,11 @@ h3,
 h4 {
     margin-top: 0;
     font-weight: 400;
+<<<<<<< HEAD
     color: #0761A1;
+=======
+    color: #0761a1;
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     margin-bottom: 15px
 }
 
@@ -140,7 +158,11 @@ h5,
 h6 {
     margin-top: 0;
     font-weight: 400;
+<<<<<<< HEAD
     color: #0761A1;
+=======
+    color: #0761a1;
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     margin-bottom: 15px
 }
 
@@ -165,7 +187,11 @@ hr {
 }
 
 a {
+<<<<<<< HEAD
     color: #0761A1;
+=======
+    color: #0761a1;
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     text-decoration: none;
     transition: background .3s, color .3s
 }
@@ -185,7 +211,7 @@ a {
 
 a:focus,
 a:hover {
-    color: #2c5e21
+    color: #a10707;
 }
 
 ol,
@@ -289,12 +315,20 @@ iframe {
     display: inline-block;
     margin: 0 0 20px;
     padding: 15px;
+<<<<<<< HEAD
     background: #0761A1;
+=======
+    background: #a10707;
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     color: #fff;
     border-radius: 3px;
     text-align: center;
     transition: .3s;
+<<<<<<< HEAD
     border: 2px solid #0761A1;
+=======
+    border: 2px solid #a10707;
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 14px;
@@ -308,7 +342,11 @@ iframe {
 .fs_style_60:hover,
 .fsStateSelected .fs_style_60 {
     background: #fff;
+<<<<<<< HEAD
     color: #0761A1;
+=======
+    color: #a10707;
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     transition: .3s
 }
 
@@ -783,7 +821,7 @@ a.fs_style_68:before {
 
 .fsListNav .fsStyleDefaultList .fsListItem a:focus,
 .fsListNav .fsStyleDefaultList .fsListItem a:hover {
-    color: #2c5e21;
+    color: #0761a1;
     background: rgba(0, 0, 0, 0)
 }
 
@@ -1242,20 +1280,20 @@ body:not(.fsComposeMode) .fsContent[class*=callout].image-right .fsElementHeader
 
 .fsNavigation li.fsNavCurrentPage>a,
 .fsNavigation li.fsNavCurrentPageAncestor>a {
-    color: #2c5e21;
+    color: #0761a1;
     background: rgba(0, 0, 0, 0)
 }
 
 .fsNavigation a {
     display: block;
     padding: 10px 0;
-    color: #52801f;
+    color: #0761a1;
     background: rgba(0, 0, 0, 0)
 }
 
 .fsNavigation a:focus,
 .fsNavigation a:hover {
-    color: #2c5e21;
+    color: #a10707;
     background: rgba(0, 0, 0, 0)
 }
 
@@ -1396,18 +1434,18 @@ body:not(.fsComposeMode) .fsContent[class*=callout].image-right .fsElementHeader
 .nav-tier ul li a {
     display: block;
     padding: 10px;
-    color: #52801f;
+    color: #0761a1;
     background: rgba(0, 0, 0, 0)
 }
 
 .nav-tier ul li a:focus,
 .nav-tier ul li a:hover {
-    color: #2c5e21;
+    color: #0761a1;
     background: #e5e5e5
 }
 
 .nav-tier ul li.fsNavCurrentPage>a {
-    color: #46773c;
+    color: #0761a1;
     background: #cfcfcf
 }
 
@@ -1520,18 +1558,18 @@ body:not(.fsComposeMode) .fsContent[class*=callout].image-right .fsElementHeader
     .nav-sub>.fsElementContent ul li a {
         display: block;
         padding: 10px 20px;
-        color: #52801f;
+        color: #0761a1;
         background: rgba(0, 0, 0, 0)
     }
 
     .nav-sub>.fsElementContent ul li a:focus,
     .nav-sub>.fsElementContent ul li a:hover {
-        color: #2c5e21;
+        color: #0761a1;
         background: #fff
     }
 
     .nav-sub>.fsElementContent ul li.fsNavCurrentPage>a {
-        color: #2c5e21;
+        color: #0761a1;
         background: #cfcfcf
     }
 
@@ -1546,13 +1584,13 @@ body:not(.fsComposeMode) .fsContent[class*=callout].image-right .fsElementHeader
     }
 
     .nav-sub>.fsElementContent ul li.fsNavCurrentPageAncestor>a {
-        color: #52801f;
+        color: #0761a1;
         background: rgba(0, 0, 0, 0)
     }
 
     .nav-sub>.fsElementContent ul li.fsNavCurrentPageAncestor>a:focus,
     .nav-sub>.fsElementContent ul li.fsNavCurrentPageAncestor>a:hover {
-        color: #46773c;
+        color: #0761a1;
         background: #cfcfcf
     }
 
@@ -2167,16 +2205,16 @@ body:not(.fsComposeMode) .fsContent[class*=callout].image-right .fsElementHeader
 .nav-main .fsNavLevel1>li.on>a,
 .nav-main .fsNavLevel1>li:hover>a,
 .nav-main .fsNavLevel1>li[class*=fsNavCurrentPage]>a {
-    color: #46773c;
+    color: #a10707;
     background: rgba(0, 0, 0, 0);
-    border-bottom-color: #46773c
+    border-bottom-color: #a10707;
 }
 
 .nav-main .fsNavLevel1>li>a {
     display: block;
     padding: 10px 8.5px 14px;
     text-align: center;
-    color: #46773c;
+    color: #0761a1;
     background: rgba(0, 0, 0, 0);
     font-weight: 700;
     font-size: 14px;
@@ -2202,7 +2240,7 @@ body:not(.fsComposeMode) .fsContent[class*=callout].image-right .fsElementHeader
 }
 
 .nav-main .fsNavLevel1>li>a:focus {
-    color: #46773c;
+    color: #0761a1;
     background: rgba(0, 0, 0, 0)
 }
 
@@ -3243,10 +3281,15 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
     left: 0;
     top: 0;
     color: rgba(0, 0, 0, 0);
+<<<<<<< HEAD
     background-image: url(images/logo.png);
+=======
+    background-image: url("images/logoh.png");
+>>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: 50%
+    background-position: 50%;
+    align-items: left;
 }
 
 #fsHeader .site-info-container a:hover {
@@ -3280,7 +3323,7 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
     position: relative;
     padding: 44px 20px;
     color: #313131;
-    background-color: #93bb66
+    background-color: #0761a1;
 }
 
 #fsFooter .fsBanner {
@@ -3330,7 +3373,7 @@ body.fsDraftMode #fsFooter .fsBanner .fsElementActionButtonContainer {
     width: 235px;
     height: 93px;
     margin: 0 auto 25px;
-    background: url(images/footer-logo.png) no-repeat 0 50%;
+    background: url(images/logoh.png) no-repeat 0 50%;
     background-size: contain
 }
 
@@ -7737,11 +7780,11 @@ input[name*=passkey]+.fsLoginSubmit {
 .fsLiveMode.loaded .home-hero .fsElementContent li {
     opacity: 1;
     transform: translateY(0);
-    color: #46773c
+    color: #0761a1
 }
 
 .fsLiveMode.loaded .home-hero .fsElementContent li strong {
-    color: #46773c
+    color: #0761a1
 }
 
 .home-hero .fsElementContent {
@@ -7774,31 +7817,31 @@ input[name*=passkey]+.fsLoginSubmit {
         width: 50%;
         order: 0;
         max-width: none;
-        margin: 0
+        margin: 0;
     }
 }
 
 @media (min-width:961px) {
     .home-hero footer {
-        width: 45%
+        width: 45%;
     }
 }
 
 @media (min-width:1281px) {
     .home-hero footer {
-        min-width: 575px
+        min-width: 575px;
     }
 }
 
 .home-hero footer .fsElementFooterContent {
-    margin-top: 0
+    margin-top: 0;
 }
 
 .home-hero ul,
 .home-hero ul ul {
     margin: 0;
     padding: 0;
-    list-style: none
+    list-style: none;
 }
 
 .home-hero ul li {
@@ -7853,7 +7896,7 @@ input[name*=passkey]+.fsLoginSubmit {
     font-size: 22px;
     line-height: 35px;
     font-weight: 700;
-    color: #46773c;
+    color: #0761a1;
     text-align: center
 }
 
@@ -8400,7 +8443,7 @@ input[name*=passkey]+.fsLoginSubmit {
 }
 
 .icon-link2.blue:hover {
-    border-color: #193d6c;
+    border-color: #a10707;
     background-color: #f2f5f8;
     box-shadow: 0 10px 20px rgba(0, 0, 0, .1)
 }
@@ -8526,17 +8569,17 @@ input[name*=passkey]+.fsLoginSubmit {
 }
 
 .news-social header h2.fsElementTitle {
-    color: #46773c;
+    color: #a10707;
     font-family: "PT Serif", Georgia, serif;
     font-weight: 400;
     font-size: 20px;
-    line-height: 30px
+    line-height: 30px;
 }
 
 @media (min-width:641px) {
     .news-social header h2.fsElementTitle {
         font-size: 25px;
-        line-height: 35px
+        line-height: 35px;
     }
 }
 
@@ -9292,7 +9335,7 @@ input[name*=passkey]+.fsLoginSubmit {
     display: inline-block;
     padding: 15px;
     background: #fff;
-    color: #1d78b5;
+    color: #a10707;
     border-radius: 3px;
     text-align: center;
     transition: .3s;
@@ -9311,7 +9354,7 @@ input[name*=passkey]+.fsLoginSubmit {
 .fsLiveMode .pre-footer-buttons a:focus,
 .fsLiveMode .pre-footer-buttons a:hover,
 .fsStateSelected .fsLiveMode .pre-footer-buttons a {
-    background: #1d78b5;
+    background: #a10707;
     color: #fff;
     transition: .3s
 }
