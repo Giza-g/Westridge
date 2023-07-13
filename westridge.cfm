@@ -221,16 +221,16 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 
 
 					<div class="fsElement fsSearchElement fsSearchForm site-search mobile" id="fsEl_1655"  >
-							<div class="fsElementContent" >
-								<form action="https://www.westridge.org/search-results" method="get" novalidate="novalidate">
-									<label class="fsFieldLabel" for="fsSearchInput_1655">Search</label>
-									<div class="fsSearchElementKeyword">
-										<input class="fsStyleSearchField fsStyleDefaultField" id="fsSearchInput_1655" name="q" placeholder="Search terms..." type="text">
-										<button aria-label="Clear" class="fsButtonClear fsStateHidden" type="reset"><span>Clear</span></button>
-									</div>
-									<button class="fsSearchElementSearchButton fsStyleUpdateButton" type="submit">Search</button>
-								</form>
-							</div>
+						<div class="fsElementContent" >
+							<form action="https://www.westridge.org/search-results" method="get" novalidate="novalidate">
+								<label class="fsFieldLabel" for="fsSearchInput_1655">Search</label>
+								<div class="fsSearchElementKeyword">
+									<input class="fsStyleSearchField fsStyleDefaultField" id="fsSearchInput_1655" name="q" placeholder="Search terms..." type="text">
+									<button aria-label="Clear" class="fsButtonClear fsStateHidden" type="reset"><span>Clear</span></button>
+								</div>
+								<button class="fsSearchElementSearchButton fsStyleUpdateButton" type="submit">Search</button>
+							</form>
+						</div>
 					</div>
 
 					<div class="fsElement fsNavigation fsList nav-main-mobile" id="fsEl_494" data-use-new="true" >
