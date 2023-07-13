@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	
-	<title>Westridge School | All Girls Private School in Pasadena, CA</title>
+	<title>Westridge School | Private School in Thika, Kiambu</title>
 	
 
 		<script>
@@ -175,163 +175,156 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 
 
 
-				<div id="fsMenu">
-					<div class=" fsMenu fsStyleAutoclear" id="fsEl_493" data-settings-id="496" data-use-new="true">
+			<div id="fsMenu">
+				<div class=" fsMenu fsStyleAutoclear" id="fsEl_493" data-settings-id="496" data-use-new="true">
 
-			<div class="fsElement fsNavigation fsList nav-utility-header" id="fsEl_1654" data-use-new="true" >
+					<div class="fsElement fsNavigation fsList nav-utility-header" id="fsEl_1654" data-use-new="true" >
 
-				<div class="fsElementContent" >
-					<nav>
-						<ul class="fsNavLevel1">
-							<li><a href="/contact">Contact</a></li>
-							<li><a href="/news">News</a></li>
-							<li class="fsNavParentPage"><a href="/alumnae">Alumnae</a>
-								<div class="fsNavPageInfo">
-									<ul class="fsNavLevel2">
-										<li><a href="/alumnae">Welcome Alumnae</a></li>
-										<li><a href="/alumnae/get-involved">Get Involved</a></li>
-										<li><a href="/alumnae/alumnae-weekend-2023">Alumnae Weekend 2023</a></li>
-										<li><a href="/alumnae/distinguished-alumnae">Distinguished Alumnae</a></li>
-										<li><a href="/alumnae/alumnae-giving">Alumnae Giving</a></li>
-										<li><a href="/alumnae/forever-fund">Forever Fund</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="fsNavParentPage"><a href="/giving">Giving</a>
-								<div class="fsNavPageInfo">
-									<ul class="fsNavLevel2">
-										<li><a href="/giving">Why Your Support Matters</a></li>
-										<li><a href="/giving/make-a-gift">Make a Gift</a></li>
-										<li><a href="/giving/westridge-fund">Westridge Fund</a></li>
-										<li><a href="/giving/ways-to-give">Ways to Give</a></li>
-										<li><a href="/giving/recognition">Recognition &amp; Giving Circles</a></li>
-										<li><a href="https://www.westridgeannualreport.org" target="_blank">Annual Report<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
-										<li><a href="/giving/elizabeth-mcgregor-legacy-campaign">The Elizabeth McGregor Legacy Campaign</a></li>
-										<li><a href="http://westridge.myplannedgift.org/" target="_blank">Gift Planning<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
-										<li><a href="/giving/gifts-of-stock">Gifts of Stock</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="calendar"><a href="/calendar">Calendar</a></li>
-						</ul>
-					</nav>
+						<div class="fsElementContent" >
+							<nav>
+								<ul class="fsNavLevel1">
+									<li><a href="/contact">Contact</a></li>
+									<li><a href="/news">News</a></li>
+									<li class="fsNavParentPage"><a href="/alumnae">Alumnae</a>
+										<div class="fsNavPageInfo">
+											<ul class="fsNavLevel2">
+												<li><a href="/alumnae">Welcome Alumnae</a></li>
+												<li><a href="/alumnae/get-involved">Get Involved</a></li>
+												<li><a href="/alumnae/alumnae-weekend-2023">Alumnae Weekend 2023</a></li>
+												<li><a href="/alumnae/distinguished-alumnae">Distinguished Alumnae</a></li>
+												<li><a href="/alumnae/alumnae-giving">Alumnae Giving</a></li>
+												<li><a href="/alumnae/forever-fund">Forever Fund</a></li>
+											</ul>
+										</div>
+									</li>
+									<li class="fsNavParentPage"><a href="/giving">Giving</a>
+										<div class="fsNavPageInfo">
+											<ul class="fsNavLevel2">
+												<li><a href="/giving">Why Your Support Matters</a></li>
+												<li><a href="/giving/make-a-gift">Make a Gift</a></li>
+												<li><a href="/giving/westridge-fund">Westridge Fund</a></li>
+												<li><a href="/giving/ways-to-give">Ways to Give</a></li>
+												<li><a href="/giving/recognition">Recognition &amp; Giving Circles</a></li>
+												<li><a href="https://www.westridgeannualreport.org" target="_blank">Annual Report<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
+												<li><a href="/giving/elizabeth-mcgregor-legacy-campaign">The Elizabeth McGregor Legacy Campaign</a></li>
+												<li><a href="http://westridge.myplannedgift.org/" target="_blank">Gift Planning<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
+												<li><a href="/giving/gifts-of-stock">Gifts of Stock</a></li>
+											</ul>
+										</div>
+									</li>
+									<li class="calendar"><a href="/calendar">Calendar</a></li>
+								</ul>
+							</nav>
+						</div>
+
+					</div>
+
+
+					<div class="fsElement fsSearchElement fsSearchForm site-search mobile" id="fsEl_1655"  >
+							<div class="fsElementContent" >
+								<form action="https://www.westridge.org/search-results" method="get" novalidate="novalidate">
+									<label class="fsFieldLabel" for="fsSearchInput_1655">Search</label>
+									<div class="fsSearchElementKeyword">
+										<input class="fsStyleSearchField fsStyleDefaultField" id="fsSearchInput_1655" name="q" placeholder="Search terms..." type="text">
+										<button aria-label="Clear" class="fsButtonClear fsStateHidden" type="reset"><span>Clear</span></button>
+									</div>
+									<button class="fsSearchElementSearchButton fsStyleUpdateButton" type="submit">Search</button>
+								</form>
+							</div>
+					</div>
+
+					<div class="fsElement fsNavigation fsList nav-main-mobile" id="fsEl_494" data-use-new="true" >
+						<div class="fsElementContent" >
+							<nav>
+								<ul class="fsNavLevel1">
+									<li class="fsNavParentPage">
+										<a href="/about">About</a>
+										<div class="fsNavPageInfo">
+											<ul class="fsNavLevel2">
+												<li><a href="/about">About Us</a></li>
+												<li><a href="/about/mission-values">Mission &amp; Values</a></li>
+												<li><a href="/about/our-past-future">Our Past &amp; Future</a></li>
+												<li><a href="/about/distinctly-westridge">Distinctly Westridge</a></li>
+												<li><a href="/about/diversity-equity-inclusion">Diversity, Equity, Inclusion, &amp; Justice</a></li>
+												<li><a href="/about/campus">Our Campus</a></li>
+												<li><a href="/about/directory">School Leadership, Faculty, &amp; Staff</a></li>
+												<li><a href="/about/wpa">Westridge Parent Association</a></li>
+												<li><a href="/about/careers">Careers</a></li>
+												<li><a href="/about/sof">Summer Opportunities Fair</a></li>
+												<li><a href="/about/coronavirus">COVID-19 Plans &amp; Protocols</a></li>
+											</ul>
+										</div>
+									</li>
+									<li class="fsNavParentPage"><a href="/admission">Admission</a>
+										<div class="fsNavPageInfo">
+											<ul class="fsNavLevel2">
+												<li><a href="/admission">Why Westridge</a></li>
+												<li><a href="/admission/apply">Applying to Westridge</a></li>
+												<li><a href="/admission/visit">Visit Us</a></li>
+												<li><a href="https://tour.westridge.org/" target="_blank">Virtual Tour<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
+												<li><a href="/admission/affording">Tuition &amp; Financial Aid</a></li>
+												<li><a href="/admission/bus">Thika Bus Route</a></li>
+												<li><a href="/admission/faqs">Frequently Asked Questions</a></li>
+												<li><a href="/admission/request-info">Request Admission Info</a></li>
+											</ul>
+										</div>
+									</li>
+									<li class="fsNavParentPage"><a href="/academics">Academics</a>
+										<div class="fsNavPageInfo">
+											<ul class="fsNavLevel2">
+												<li><a href="/academics">Our Approach</a></li>
+												<li><a href="/academics/divisions">Lower, Middle, &amp; Upper School</a></li>
+												<li><a href="/academics/curriculum">Curriculum Close-Ups</a></li>
+												<li><a href="/academics/advanced-courses">Advanced Courses</a></li>
+												<li><a href="/academics/college-counseling">College Counseling</a></li>
+												<li><a href="/academics/technology-design-innovation">Technology, Design, &amp; Innovation</a></li>
+												<li><a href="/academics/student-support-wellness">Student Support &amp; Wellness</a></li>
+											</ul>
+										</div>
+									</li>
+									<li class="fsNavParentPage"><a href="/empowering-girls">Empowering Students</a>
+										<div class="fsNavPageInfo">
+											<ul class="fsNavLevel2">
+												<li><a href="/empowering-girls">Our School's Advantage</a></li>
+												<li><a href="/empowering-girls/student-life-leadership">Student Life, Leadership, &amp; Traditions</a></li>
+												<li><a href="/empowering-girls/beyond-westridge">Beyond Westridge</a></li>
+												<li><a href="/empowering-girls/service-learning">Service Learning</a></li>
+												<li><a href="/empowering-girls/lives-of-impact">Lives of Impact</a></li>
+												<li><a href="/empowering-girls/blog">Blog &amp; Resources for Parents</a></li>
+											</ul>
+										</div>
+									</li>
+									<li class="fsNavParentPage"><a href="/arts">Arts</a>
+										<div class="fsNavPageInfo">
+											<ul class="fsNavLevel2">
+												<li><a href="/arts">About Visual &amp; Performing Arts</a></li>
+												<li><a href="/arts/music">Music</a></li>
+												<li><a href="/arts/theatre">Theatre</a></li>
+												<li><a href="/arts/dance">Dance</a></li>
+												<li><a href="/arts/visual-arts">Visual Arts</a></li>
+												<li><a href="/arts/upcoming-shows-tickets">Upcoming Shows &amp; Tickets</a></li>
+											</ul>
+										</div>
+									</li>
+									<li class="fsNavParentPage"><a href="/athletics">Athletics</a>
+										<div class="fsNavPageInfo">
+											<ul class="fsNavLevel2">
+												<li><a href="/athletics">About Tiger Athletics</a></li>
+												<li><a href="/athletics/teams-schedules">Teams &amp; Schedules</a></li>
+												<li><a href="/athletics/tiger-championships">Tiger Championships</a></li>
+												<li><a href="/athletics/athletic-facilities">Athletic Facilities</a></li>
+											</ul>
+										</div>
+									</li>
+								</ul>
+							</nav>
+						</div>
+					</div>
+
 				</div>
 			</div>
 
-
-	<div class="fsElement fsSearchElement fsSearchForm site-search mobile" id="fsEl_1655"  >
-
-				<div class="fsElementContent" >
-					<form action="https://www.westridge.org/search-results" method="get" novalidate="novalidate">
-						<label class="fsFieldLabel" for="fsSearchInput_1655">Search</label>
-						<div class="fsSearchElementKeyword">
-							<input class="fsStyleSearchField fsStyleDefaultField" id="fsSearchInput_1655" name="q" placeholder="Search terms..." type="text">
-							<button aria-label="Clear" class="fsButtonClear fsStateHidden" type="reset"><span>Clear</span></button>
-						</div>
-						<button class="fsSearchElementSearchButton fsStyleUpdateButton" type="submit">Search</button>
-					</form>
-				</div>
-
-	</div>
-
-	<div class="fsElement fsNavigation fsList nav-main-mobile" id="fsEl_494" data-use-new="true" >
-
-				<div class="fsElementContent" >
-					<nav>
-						<ul class="fsNavLevel1">
-							<li class="fsNavParentPage">
-								<a href="/about">About</a>
-								<div class="fsNavPageInfo">
-									<ul class="fsNavLevel2">
-										<li><a href="/about">About Us</a></li>
-										<li><a href="/about/mission-values">Mission &amp; Values</a></li>
-										<li><a href="/about/our-past-future">Our Past &amp; Future</a></li>
-										<li><a href="/about/distinctly-westridge">Distinctly Westridge</a></li>
-										<li><a href="/about/diversity-equity-inclusion">Diversity, Equity, Inclusion, &amp; Justice</a></li>
-										<li><a href="/about/campus">Our Campus</a></li>
-										<li><a href="/about/directory">School Leadership, Faculty, &amp; Staff</a></li>
-										<li><a href="/about/wpa">Westridge Parent Association</a></li>
-										<li><a href="/about/careers">Careers</a></li>
-										<li><a href="/about/sof">Summer Opportunities Fair</a></li>
-										<li><a href="/about/coronavirus">COVID-19 Plans &amp; Protocols</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="fsNavParentPage"><a href="/admission">Admission</a>
-								<div class="fsNavPageInfo">
-									<ul class="fsNavLevel2">
-										<li><a href="/admission">Why Westridge</a></li>
-										<li><a href="/admission/apply">Applying to Westridge</a></li>
-										<li><a href="/admission/visit">Visit Us</a></li>
-										<li><a href="https://tour.westridge.org/" target="_blank">Virtual Tour<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
-										<li><a href="/admission/affording">Tuition &amp; Financial Aid</a></li>
-										<li><a href="/admission/bus">Los Angeles Bus Route</a></li>
-										<li><a href="/admission/faqs">Frequently Asked Questions</a></li>
-										<li><a href="/admission/request-info">Request Admission Info</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="fsNavParentPage"><a href="/academics">Academics</a>
-								<div class="fsNavPageInfo">
-									<ul class="fsNavLevel2">
-										<li><a href="/academics">Our Approach</a></li>
-										<li><a href="/academics/divisions">Lower, Middle, &amp; Upper School</a></li>
-										<li><a href="/academics/curriculum">Curriculum Close-Ups</a></li>
-										<li><a href="/academics/advanced-courses">Advanced Courses</a></li>
-										<li><a href="/academics/college-counseling">College Counseling</a></li>
-										<li><a href="/academics/technology-design-innovation">Technology, Design, &amp; Innovation</a></li>
-										<li><a href="/academics/student-support-wellness">Student Support &amp; Wellness</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="fsNavParentPage"><a href="/empowering-girls">Empowering Girls</a>
-								<div class="fsNavPageInfo">
-									<ul class="fsNavLevel2">
-										<li><a href="/empowering-girls">The Girls' School Advantage</a></li>
-										<li><a href="/empowering-girls/student-life-leadership">Student Life, Leadership, &amp; Traditions</a></li>
-										<li><a href="/empowering-girls/beyond-westridge">Beyond Westridge</a></li>
-										<li><a href="/empowering-girls/service-learning">Service Learning</a></li>
-										<li><a href="/empowering-girls/lives-of-impact">Lives of Impact</a></li>
-										<li><a href="/empowering-girls/blog">Blog &amp; Resources for Parents</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="fsNavParentPage"><a href="/arts">Arts</a>
-								<div class="fsNavPageInfo">
-									<ul class="fsNavLevel2">
-										<li><a href="/arts">About Visual &amp; Performing Arts</a></li>
-										<li><a href="/arts/music">Music</a></li>
-										<li><a href="/arts/theatre">Theatre</a></li>
-										<li><a href="/arts/dance">Dance</a></li>
-										<li><a href="/arts/visual-arts">Visual Arts</a></li>
-										<li><a href="/arts/upcoming-shows-tickets">Upcoming Shows &amp; Tickets</a></li>
-									</ul>
-								</div>
-							</li>
-							<li class="fsNavParentPage"><a href="/athletics">Athletics</a>
-								<div class="fsNavPageInfo">
-									<ul class="fsNavLevel2">
-										<li><a href="/athletics">About Tiger Athletics</a></li>
-										<li><a href="/athletics/teams-schedules">Teams &amp; Schedules</a></li>
-										<li><a href="/athletics/tiger-championships">Tiger Championships</a></li>
-										<li><a href="/athletics/athletic-facilities">Athletic Facilities</a></li>
-									</ul>
-								</div>
-							</li>
-						</ul>
-					</nav>
-				</div>
-
-	</div>
-
-
-
-</div>
-
-
-				</div>
-
-		<header id="fsHeader" class="fsHeader">
+			<header id="fsHeader" class="fsHeader">
 				<div class=" fsBanner fsStyleAutoclear" id="fsEl_7" data-settings-id="7" data-use-new="true">
 					<div class="fsElement fsEmbed skip-link" id="fsEl_1384" data-use-new="true" >
 						<div class="fsElementContent" >
@@ -342,222 +335,221 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 					</div>
 
 
-				<div class="fsElement fsContainer fixed-header" id="fsEl_1595" data-use-new="true" >
-					<div class="fsElementContent" >
-						<div class="fsElement fsContent site-info-container" id="fsEl_1596" data-use-new="true" >
-							<div class="fsElementContent" >
-								<div>
-									<a href="/">Westridge School for Girls</a>
+					<div class="fsElement fsContainer fixed-header" id="fsEl_1595" data-use-new="true" >
+						<div class="fsElementContent" >
+							<div class="fsElement fsContent site-info-container" id="fsEl_1596" data-use-new="true" >
+								<div class="fsElementContent" >
+									<div>
+										<a href="/">Westridge School Thika</a>
+									</div>
 								</div>
 							</div>
-						</div>
 
-				<div class="fsElement fsContainer right-section" id="fsEl_1597" data-use-new="true" >
-					<div class="fsElementContent" >
-						<div class="fsElement fsEmbed translate" id="fsEl_7976" data-use-new="true" >
-							<div class="fsElementContent" >
-								<div id="google_translate_element">
-								</div>
-								<script type="text/javascript">
-									function googleTranslateElementInit() {
-										new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element');
-									}
-								</script>
-								<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
-							</div>
-						</div>
+							<div class="fsElement fsContainer right-section" id="fsEl_1597" data-use-new="true" >
+								<div class="fsElementContent" >
+									<div class="fsElement fsEmbed translate" id="fsEl_7976" data-use-new="true" >
+										<div class="fsElementContent" >
+											<div id="google_translate_element">
+											</div>
+											<script type="text/javascript">
+												function googleTranslateElementInit() {
+													new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element');
+												}
+											</script>
+											<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript"></script>
+										</div>
+									</div>
 						
-				<div class="fsElement fsNavigation fsList nav-utility-header" id="fsEl_1599" data-use-new="true" >
-					<div class="fsElementContent" >
-						<nav>
-							<ul class="fsNavLevel1">
-								<li><a href="/contact">Contact</a></li>
-								<li><a href="/news">News</a></li>
-								<li class="fsNavParentPage"><a href="/alumnae">Alumnae</a>
-									<div class="fsNavPageInfo">
-										<ul class="fsNavLevel2">
-											<li><a href="/alumnae">Welcome Alumnae</a></li>
-											<li><a href="/alumnae/get-involved">Get Involved</a></li>
-											<li><a href="/alumnae/alumnae-weekend-2023">Alumnae Weekend 2023</a></li>
-											<li><a href="/alumnae/distinguished-alumnae">Distinguished Alumnae</a></li>
-											<li><a href="/alumnae/alumnae-giving">Alumnae Giving</a></li>
-											<li><a href="/alumnae/forever-fund">Forever Fund</a></li>
-										</ul>
+									<div class="fsElement fsNavigation fsList nav-utility-header" id="fsEl_1599" data-use-new="true" >
+										<div class="fsElementContent" >
+											<nav>
+												<ul class="fsNavLevel1">
+													<li><a href="/contact">Contact</a></li>
+													<li><a href="/news">News</a></li>
+													<li class="fsNavParentPage"><a href="/alumnae">Alumnae</a>
+														<div class="fsNavPageInfo">
+															<ul class="fsNavLevel2">
+																<li><a href="/alumnae">Welcome Alumnae</a></li>
+																<li><a href="/alumnae/get-involved">Get Involved</a></li>
+																<li><a href="/alumnae/alumnae-weekend-2023">Alumnae Weekend 2023</a></li>
+																<li><a href="/alumnae/distinguished-alumnae">Distinguished Alumnae</a></li>
+																<li><a href="/alumnae/alumnae-giving">Alumnae Giving</a></li>
+																<li><a href="/alumnae/forever-fund">Forever Fund</a></li>
+															</ul>
+														</div>
+													</li>
+													<li class="fsNavParentPage"><a href="/giving">Giving</a>
+														<div class="fsNavPageInfo">
+															<ul class="fsNavLevel2">
+																<li><a href="/giving">Why Your Support Matters</a></li>
+																<li><a href="/giving/make-a-gift">Make a Gift</a></li>
+																<li><a href="/giving/westridge-fund">Westridge Fund</a></li>
+																<li><a href="/giving/ways-to-give">Ways to Give</a></li>
+																<li><a href="/giving/recognition">Recognition &amp; Giving Circles</a></li>
+																<li><a href="https://www.westridgeannualreport.org" target="_blank">Annual Report<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
+																<li><a href="/giving/elizabeth-mcgregor-legacy-campaign">The Elizabeth McGregor Legacy Campaign</a></li>
+																<li><a href="http://westridge.myplannedgift.org/" target="_blank">Gift Planning<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
+																<li><a href="/giving/gifts-of-stock">Gifts of Stock</a></li>
+															</ul>
+														</div>
+													</li>
+													<li class="calendar"><a href="/calendar">Calendar</a></li>
+												</ul>
+											</nav>
+										</div>
 									</div>
-								</li>
-								<li class="fsNavParentPage"><a href="/giving">Giving</a>
-									<div class="fsNavPageInfo">
-										<ul class="fsNavLevel2">
-											<li><a href="/giving">Why Your Support Matters</a></li>
-											<li><a href="/giving/make-a-gift">Make a Gift</a></li>
-											<li><a href="/giving/westridge-fund">Westridge Fund</a></li>
-											<li><a href="/giving/ways-to-give">Ways to Give</a></li>
-											<li><a href="/giving/recognition">Recognition &amp; Giving Circles</a></li>
-											<li><a href="https://www.westridgeannualreport.org" target="_blank">Annual Report<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
-											<li><a href="/giving/elizabeth-mcgregor-legacy-campaign">The Elizabeth McGregor Legacy Campaign</a></li>
-											<li><a href="http://westridge.myplannedgift.org/" target="_blank">Gift Planning<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
-											<li><a href="/giving/gifts-of-stock">Gifts of Stock</a></li>
-										</ul>
-									</div>
-								</li>
-								<li class="calendar"><a href="/calendar">Calendar</a></li>
-							</ul>
-						</nav>
-					</div>
-				</div>
 
-				<div class="fsElement fsSearchElement fsSearchForm site-search" id="fsEl_1601"  >
-					<header>
-						<div class="fsElementHeaderContent">
-							<button class="search-toggle">search</button>
-						</div>
-					</header>
-					<div class="fsElementContent" >
-						<form action="https://www.westridge.org/search-results" method="get" novalidate="novalidate">
-							<label class="fsFieldLabel" for="fsSearchInput_1601">Search</label>
-							<div class="fsSearchElementKeyword">
-								<input class="fsStyleSearchField fsStyleDefaultField" id="fsSearchInput_1601" name="q" placeholder="Search terms....." type="text">
-								<button aria-label="Clear" class="fsButtonClear fsStateHidden" type="reset"><span>Clear</span></button>
-							</div>
-							<button class="fsSearchElementSearchButton fsStyleUpdateButton" type="submit">Search</button>
-						</form>
-					</div>
-				</div>
+									<div class="fsElement fsSearchElement fsSearchForm site-search" id="fsEl_1601"  >
+										<header>
+											<div class="fsElementHeaderContent">
+												<button class="search-toggle">search</button>
+											</div>
+										</header>
+										<div class="fsElementContent" >
+											<form action="https://www.westridge.org/search-results" method="get" novalidate="novalidate">
+												<label class="fsFieldLabel" for="fsSearchInput_1601">Search</label>
+												<div class="fsSearchElementKeyword">
+													<input class="fsStyleSearchField fsStyleDefaultField" id="fsSearchInput_1601" name="q" placeholder="Search terms....." type="text">
+													<button aria-label="Clear" class="fsButtonClear fsStateHidden" type="reset"><span>Clear</span></button>
+												</div>
+												<button class="fsSearchElementSearchButton fsStyleUpdateButton" type="submit">Search</button>
+											</form>
+										</div>
+									</div>
 				
-				<div class="fsElement fsContent portal-link" id="fsEl_1623" data-use-new="true" >
-					<div class="fsElementContent" >
-						<p><a data-page-name="Login" href="/fs/pages/8" target="_self">myWestridge</a></p>
-					</div>
-				</div>
+									<div class="fsElement fsContent portal-link" id="fsEl_1623" data-use-new="true" >
+										<div class="fsElementContent" >
+											<p><a data-page-name="Login" href="/fs/pages/8" target="_self">myWestridge</a></p>
+										</div>
+									</div>
 
-				<div class="fsElement fsNavigation fsList nav-main" id="fsEl_1598" data-use-new="true" >
-					<div class="fsElementContent" >
-						<nav>
-							<ul class="fsNavLevel1">
-								<li class="fsNavParentPage"><a href="/about">About</a>
-									<div class="fsNavPageInfo">
-										<ul class="fsNavLevel2">
-											<li><a href="/about">About Us</a></li>
-											<li><a href="/about/mission-values">Mission &amp; Values</a></li>
-											<li><a href="/about/our-past-future">Our Past &amp; Future</a></li>
-											<li><a href="/about/distinctly-westridge">Distinctly Westridge</a></li>
-											<li><a href="/about/diversity-equity-inclusion">Diversity, Equity, Inclusion, &amp; Justice</a></li>
-											<li><a href="/about/campus">Our Campus</a></li><li><a href="/about/directory">School Leadership, Faculty, &amp; Staff</a></li>
-											<li><a href="/about/wpa">Westridge Parent Association</a></li><li><a href="/about/careers">Careers</a></li>
-											<li><a href="/about/sof">Summer Opportunities Fair</a></li>
-											<li><a href="/about/coronavirus">COVID-19 Plans &amp; Protocols</a></li>
-										</ul>
+									<div class="fsElement fsNavigation fsList nav-main" id="fsEl_1598" data-use-new="true" >
+										<div class="fsElementContent" >
+											<nav>
+												<ul class="fsNavLevel1">
+													<li class="fsNavParentPage"><a href="/about">About</a>
+														<div class="fsNavPageInfo">
+															<ul class="fsNavLevel2">
+																<li><a href="/about">About Us</a></li>
+																<li><a href="/about/mission-values">Mission &amp; Values</a></li>
+																<li><a href="/about/our-past-future">Our Past &amp; Future</a></li>
+																<li><a href="/about/distinctly-westridge">Distinctly Westridge</a></li>
+																<li><a href="/about/diversity-equity-inclusion">Diversity, Equity, Inclusion, &amp; Justice</a></li>
+																<li><a href="/about/campus">Our Campus</a></li><li><a href="/about/directory">School Leadership, Faculty, &amp; Staff</a></li>
+																<li><a href="/about/wpa">Westridge Parent Association</a></li><li><a href="/about/careers">Careers</a></li>
+																<li><a href="/about/sof">Summer Opportunities Fair</a></li>
+																<li><a href="/about/coronavirus">COVID-19 Plans &amp; Protocols</a></li>
+															</ul>
+														</div>
+													</li>
+													<li class="fsNavParentPage"><a href="/admission">Admission</a>
+														<div class="fsNavPageInfo">
+															<ul class="fsNavLevel2">
+																<li><a href="/admission">Why Westridge</a></li>
+																<li><a href="/admission/apply">Applying to Westridge</a></li>
+																<li><a href="/admission/visit">Visit Us</a></li>
+																<li><a href="https://tour.westridge.org/" target="_blank">Virtual Tour<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
+																<li><a href="/admission/affording">Tuition &amp; Financial Aid</a></li>
+																<li><a href="/admission/bus">Thika Bus Route</a></li>
+																<li><a href="/admission/faqs">Frequently Asked Questions</a></li>
+																<li><a href="/admission/request-info">Request Admission Info</a></li>
+															</ul>
+														</div>
+													</li>
+													<li class="fsNavParentPage"><a href="/academics">Academics</a>
+														<div class="fsNavPageInfo">
+															<ul class="fsNavLevel2">
+																<li><a href="/academics">Our Approach</a></li>
+																<li><a href="/academics/divisions">Lower, Middle, &amp; Upper School</a></li>
+																<li><a href="/academics/curriculum">Curriculum Close-Ups</a></li>
+																<li><a href="/academics/advanced-courses">Advanced Courses</a></li>
+																<li><a href="/academics/college-counseling">College Counseling</a></li>
+																<li><a href="/academics/technology-design-innovation">Technology, Design, &amp; Innovation</a></li>
+																<li><a href="/academics/student-support-wellness">Student Support &amp; Wellness</a>
+																</li>
+															</ul>
+														</div>
+													</li>
+													<li class="fsNavParentPage"><a href="/empowering-girls">Empowering Students</a>
+														<div class="fsNavPageInfo">
+															<ul class="fsNavLevel2">
+																<li><a href="/empowering-girls">The Westridge School Advantage</a></li>
+																<li><a href="/empowering-girls/student-life-leadership">Student Life, Leadership, &amp; Traditions</a></li>
+																<li><a href="/empowering-girls/beyond-westridge">Beyond Westridge</a></li>
+																<li><a href="/empowering-girls/service-learning">Service Learning</a></li>
+																<li><a href="/empowering-girls/lives-of-impact">Lives of Impact</a></li>
+																<li><a href="/empowering-girls/blog">Blog &amp; Resources for Parents</a></li>
+															</ul>
+														</div>
+													</li>
+													<li class="fsNavParentPage"><a href="/arts">Arts</a>
+														<div class="fsNavPageInfo">
+															<ul class="fsNavLevel2">
+																<li><a href="/arts">About Visual &amp; Performing Arts</a></li>
+																<li><a href="/arts/music">Music</a></li>
+																<li><a href="/arts/theatre">Theatre</a></li>
+																<li><a href="/arts/dance">Dance</a></li>
+																<li><a href="/arts/visual-arts">Visual Arts</a></li>
+																<li><a href="/arts/upcoming-shows-tickets">Upcoming Shows &amp; Tickets</a></li>
+															</ul>
+														</div>
+													</li>
+													<li class="fsNavParentPage"><a href="/athletics">Athletics</a>
+														<div class="fsNavPageInfo">
+															<ul class="fsNavLevel2">
+																<li><a href="/athletics">About Tiger Athletics</a></li>
+																<li><a href="/athletics/teams-schedules">Teams &amp; Schedules</a></li>
+																<li><a href="/athletics/tiger-championships">Tiger Championships</a></li>
+																<li><a href="/athletics/athletic-facilities">Athletic Facilities</a></li>
+															</ul>
+														</div>
+													</li>
+												</ul>
+											</nav>
+										</div>
 									</div>
-								</li>
-								<li class="fsNavParentPage"><a href="/admission">Admission</a>
-									<div class="fsNavPageInfo">
-										<ul class="fsNavLevel2">
-											<li><a href="/admission">Why Westridge</a></li>
-											<li><a href="/admission/apply">Applying to Westridge</a></li>
-											<li><a href="/admission/visit">Visit Us</a></li>
-											<li><a href="https://tour.westridge.org/" target="_blank">Virtual Tour<span class="fsStyleSROnly">(opens in new window/tab)</span></a></li>
-											<li><a href="/admission/affording">Tuition &amp; Financial Aid</a></li>
-											<li><a href="/admission/bus">Thika Bus Route</a></li>
-											<li><a href="/admission/faqs">Frequently Asked Questions</a></li>
-											<li><a href="/admission/request-info">Request Admission Info</a></li>
-										</ul>
-									</div>
-								</li>
-								<li class="fsNavParentPage"><a href="/academics">Academics</a>
-									<div class="fsNavPageInfo">
-										<ul class="fsNavLevel2">
-											<li><a href="/academics">Our Approach</a></li>
-											<li><a href="/academics/divisions">Lower, Middle, &amp; Upper School</a></li>
-											<li><a href="/academics/curriculum">Curriculum Close-Ups</a></li>
-											<li><a href="/academics/advanced-courses">Advanced Courses</a></li>
-											<li><a href="/academics/college-counseling">College Counseling</a></li>
-											<li><a href="/academics/technology-design-innovation">Technology, Design, &amp; Innovation</a></li>
-											<li><a href="/academics/student-support-wellness">Student Support &amp; Wellness</a>
-											</li>
-										</ul>
-									</div>
-								</li>
-								<li class="fsNavParentPage"><a href="/empowering-girls">Empowering Students</a>
-									<div class="fsNavPageInfo">
-										<ul class="fsNavLevel2">
-											<li><a href="/empowering-girls">The Girls' School Advantage</a></li>
-											<li><a href="/empowering-girls/student-life-leadership">Student Life, Leadership, &amp; Traditions</a></li>
-											<li><a href="/empowering-girls/beyond-westridge">Beyond Westridge</a></li>
-											<li><a href="/empowering-girls/service-learning">Service Learning</a></li>
-											<li><a href="/empowering-girls/lives-of-impact">Lives of Impact</a></li>
-											<li><a href="/empowering-girls/blog">Blog &amp; Resources for Parents</a></li>
-										</ul>
-									</div>
-								</li>
-								<li class="fsNavParentPage"><a href="/arts">Arts</a>
-									<div class="fsNavPageInfo">
-										<ul class="fsNavLevel2">
-											<li><a href="/arts">About Visual &amp; Performing Arts</a></li>
-											<li><a href="/arts/music">Music</a></li>
-											<li><a href="/arts/theatre">Theatre</a></li>
-											<li><a href="/arts/dance">Dance</a></li>
-											<li><a href="/arts/visual-arts">Visual Arts</a></li>
-											<li><a href="/arts/upcoming-shows-tickets">Upcoming Shows &amp; Tickets</a></li>
-										</ul>
-									</div>
-								</li>
-								<li class="fsNavParentPage"><a href="/athletics">Athletics</a>
-									<div class="fsNavPageInfo">
-										<ul class="fsNavLevel2">
-											<li><a href="/athletics">About Tiger Athletics</a></li>
-											<li><a href="/athletics/teams-schedules">Teams &amp; Schedules</a></li>
-											<li><a href="/athletics/tiger-championships">Tiger Championships</a></li>
-											<li><a href="/athletics/athletic-facilities">Athletic Facilities</a></li>
-										</ul>
-									</div>
-								</li>
-							</ul>
-						</nav>
-					</div>
-				</div>
 
-				<div class="fsElement fsContent drawer-ribbon" id="fsEl_1653" data-use-new="true" >
-					<div class="fsElementContent" >
-						<div>
-							<button class="mobile-toggle">Menu</button>
+									<div class="fsElement fsContent drawer-ribbon" id="fsEl_1653" data-use-new="true" >
+										<div class="fsElementContent" >
+											<div>
+												<button class="mobile-toggle">Menu</button>
+											</div>
+										</div>
+									</div>
+			
+								</div>
+							</div>
+
+						</div>
+
+					</div>
+
+					<section class="fsElement fsNavigation fsList nav-level-two" id="fsEl_1594" data-use-new="true" >
+
+						<header>
+							<h2 class="fsElementTitle">In This Section</h2>
+						</header>
+						<div class="fsElementContent" >
+							<nav></nav>
+						</div>
+					
+					</section>
+			
+					<div class="fsElement fsNavigation fsBreadcrumb" id="fsEl_1696" data-use-new="true" >
+						<div class="fsElementContent" >
+							<nav aria-label="breadcrumbs">
+								<ul>
+									<li aria-current=location >
+										Home
+									</li>
+								</ul>
+							</nav>
 						</div>
 					</div>
+
 				</div>
-			
-			</div>
 
-	</div>
-
-	</div>
-
-	</div>
-
-			<section class="fsElement fsNavigation fsList nav-level-two" id="fsEl_1594" data-use-new="true" >
-
-				<header>
-					<h2 class="fsElementTitle">In This Section</h2>
-				</header>
-				<div class="fsElementContent" >
-					<nav></nav>
-				</div>
-			
-			</section>
-			
-			<div class="fsElement fsNavigation fsBreadcrumb" id="fsEl_1696" data-use-new="true" >
-				<div class="fsElementContent" >
-					<nav aria-label="breadcrumbs">
-						<ul>
-							<li aria-current=location >
-								Home
-							</li>
-						</ul>
-					</nav>
-				</div>
-			</div>
-
-	</div>
-
-	</header>
+			</header>
 
 			<div id="fsPageBodyWrapper" class="fsPageBodyWrapper">
 				<div id="fsPageBody" class="fsStyleAutoclear fsPageBody">
@@ -576,9 +568,10 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 
 									<footer>
 										<div class="fsElementFooterContent">
-											<figure class="fsImage">
+											<figure class="fsImage" id="image-container">
 												<picture>
-													<img alt="Westridge School: All Girls School Los Angeles" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:700}]" data-resource-description="" data-resource-filename="top-homepage-transparent2.gif" data-resource-uuid="6387c365-75c1-45ba-9c71-06b5b10691d7" id="" src="" style="margin-top: 25px;" />
+													<!--- <img alt="Westridge School: All Girls School Los Angeles" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:700}]" data-resource-description="" data-resource-filename="top-homepage-transparent2.gif" data-resource-uuid="6387c365-75c1-45ba-9c71-06b5b10691d7" id="" src="" style="margin-top: 25px;" />  --->
+													<img src="assets\img\image1.jpg"/>
 												</picture>
 											</figure>
 										</div>
@@ -598,7 +591,22 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 									<div class="fsElementContent" >
 										<div class="fsListItems">
 											<article class="fsStyleAutoclear fsBoard-3" data-post-id="6" data-authenticated-comments="true" aria-labelledby="fsArticle_1658_6">
-												<div class="fsThumbnail fsPostLink fsPostBackgroundThumbnail" data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:256},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:512},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:800},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1200},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1600},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:2000}]" data-aspect-ratio="0.712"><img data-aspect-ratio="0.712" data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:256},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:512},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:800},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1200},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1600},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:2000}]" alt="Westridge School: Private School in San Fernando Valley" />
+												<div class="fsThumbnail fsPostLink fsPostBackgroundThumbnail" 
+												data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:256},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:512},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:800},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1200},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1600},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:2000}]" 
+												data-aspect-ratio="0.712">
+												<img data-aspect-ratio="0.712" 
+												data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:256},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:512},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:800},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1200},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1600},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:2000}]"
+												 alt="Westridge School: Private School in San Fernando Valley" />
 												</div>
 												<div class="fsTitle " id="fsArticle_1658_6">
 													Because our approach is unique.
@@ -614,7 +622,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 													Because children are the future.
 												</div>
 												<div class="fsSummary">
-													<p>We provide the highest-caliber, girl-centric education in a participatory&nbsp;and encouraging community focused on developing girls&rsquo; sense of self, sense of purpose, and the skills they need to live lives of impact.</p>
+													<p>We provide the highest-caliber, all-round education in a participatory&nbsp;and encouraging community focused on developing girls&rsquo; sense of self, sense of purpose, and the skills they need to live lives of impact.</p>
 													<p><a data-page-name="Why Westridge" href="/fs/pages/331">Discover More</a></p>
 												</div>
 											</article>
@@ -746,7 +754,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 										</section>
 										<section class="fsElement fsContent" id="fsEl_1672" data-use-new="true" >
 											<header>
-												<h2 class="fsElementTitle">4-12</h2>
+												<h2 class="fsElementTitle">1-7</h2>
 											</header>
 											<div class="fsElementContent" >
 												<p>Grades Offered</p>
@@ -814,17 +822,12 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 											</figure>
 										</div>
 									</footer>
-
-
-	</div>
-
-	</div>
-
-	</div>
-
-				</main>
+								</div>
+							</div>
+						</div>
+					</main>
+				</div>
 			</div>
-		</div>
 
 			<footer id="fsFooter" class="fsFooter">
 				<div class=" fsBanner fsStyleAutoclear" id="fsEl_9" data-settings-id="9" data-use-new="true">
@@ -905,6 +908,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 					</div>
 				</div>
 			</footer>
+
 </div>
 
 
@@ -914,6 +918,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 <script src="assets\application-83a459c7281cf2e389a18681af3d18a5644963bfeb1e7e380841"></script>
 
 	<script src="uploaded\themes\default_19\main.js"></script>
+	
 
 
 
