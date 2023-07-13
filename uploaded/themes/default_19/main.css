@@ -86,7 +86,7 @@
 h2.fsElementTitle {
     margin-top: 0;
     font-weight: 400;
-    color: #46773c;
+    color: #0761A1;
     font-size: 35px;
     line-height: 45px;
     margin-bottom: 15px
@@ -102,7 +102,7 @@ h1,
 h2 {
     margin-top: 0;
     font-weight: 400;
-    color: #46773c;
+    color: #0761A1;
     font-weight: 700
 }
 
@@ -121,7 +121,7 @@ h3,
 h4 {
     margin-top: 0;
     font-weight: 400;
-    color: #46773c;
+    color: #0761A1;
     margin-bottom: 15px
 }
 
@@ -140,7 +140,7 @@ h5,
 h6 {
     margin-top: 0;
     font-weight: 400;
-    color: #46773c;
+    color: #0761A1;
     margin-bottom: 15px
 }
 
@@ -165,7 +165,7 @@ hr {
 }
 
 a {
-    color: #52801f;
+    color: #0761A1;
     text-decoration: none;
     transition: background .3s, color .3s
 }
@@ -215,7 +215,7 @@ table.fs_style_71 th {
 .fsAthleticsRoster .fsElementTable th,
 table.fs_style_71 th {
     padding: 10px 20px;
-    background: #46773c;
+    background: #0761A1;
     color: #fff;
     text-align: left;
     font-size: 20px;
@@ -289,12 +289,12 @@ iframe {
     display: inline-block;
     margin: 0 0 20px;
     padding: 15px;
-    background: #46773c;
+    background: #0761A1;
     color: #fff;
     border-radius: 3px;
     text-align: center;
     transition: .3s;
-    border: 2px solid #46773c;
+    border: 2px solid #0761A1;
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 14px;
@@ -308,7 +308,7 @@ iframe {
 .fs_style_60:hover,
 .fsStateSelected .fs_style_60 {
     background: #fff;
-    color: #46773c;
+    color: #0761A1;
     transition: .3s
 }
 
@@ -436,7 +436,7 @@ iframe {
 .fs_style_65:hover,
 .fsStateSelected .fs_style_65 {
     background: #fff;
-    color: #313131;
+    color: #0761A1;
     transition: .3s
 }
 
@@ -3243,7 +3243,7 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
     left: 0;
     top: 0;
     color: rgba(0, 0, 0, 0);
-    background-image: url(assets/img/logo.jpg);
+    background-image: url(images/logo.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50%
