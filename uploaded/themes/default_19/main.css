@@ -92,12 +92,9 @@
 h2.fsElementTitle {
     margin-top: 0;
     font-weight: 400;
-<<<<<<< HEAD
-    color: #0761A1;
-=======
-    color: #0761a1;
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
-    font-size: 35px;
+    <<<<<<< HEAD color: #0761A1;
+    =======color: #0761a1;
+    >>>>>>>7c98e83212df7485a0ce3b3a54f34bb4d216b2a1 font-size: 35px;
     line-height: 45px;
     margin-bottom: 15px
 }
@@ -112,12 +109,9 @@ h1,
 h2 {
     margin-top: 0;
     font-weight: 400;
-<<<<<<< HEAD
-    color: #0761A1;
-=======
-    color: #0761a1;
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
-    font-weight: 700
+    <<<<<<< HEAD color: #0761A1;
+    =======color: #0761a1;
+    >>>>>>>7c98e83212df7485a0ce3b3a54f34bb4d216b2a1 font-weight: 700
 }
 
 h2 {
@@ -135,11 +129,8 @@ h3,
 h4 {
     margin-top: 0;
     font-weight: 400;
-<<<<<<< HEAD
     color: #0761A1;
-=======
     color: #0761a1;
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     margin-bottom: 15px
 }
 
@@ -158,11 +149,8 @@ h5,
 h6 {
     margin-top: 0;
     font-weight: 400;
-<<<<<<< HEAD
     color: #0761A1;
-=======
     color: #0761a1;
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     margin-bottom: 15px
 }
 
@@ -187,11 +175,8 @@ hr {
 }
 
 a {
-<<<<<<< HEAD
     color: #0761A1;
-=======
     color: #0761a1;
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     text-decoration: none;
     transition: background .3s, color .3s
 }
@@ -303,7 +288,8 @@ img,
 svg,
 video {
     height: auto;
-    max-width: 100%
+    max-width: 100%;
+    object-fit: cover;
 }
 
 iframe {
@@ -315,21 +301,15 @@ iframe {
     display: inline-block;
     margin: 0 0 20px;
     padding: 15px;
-<<<<<<< HEAD
-    background: #0761A1;
-=======
-    background: #a10707;
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
-    color: #fff;
+    <<<<<<< HEAD background: #0761A1;
+    =======background: #a10707;
+    >>>>>>>7c98e83212df7485a0ce3b3a54f34bb4d216b2a1 color: #fff;
     border-radius: 3px;
     text-align: center;
     transition: .3s;
-<<<<<<< HEAD
-    border: 2px solid #0761A1;
-=======
-    border: 2px solid #a10707;
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
-    text-transform: uppercase;
+    <<<<<<< HEAD border: 2px solid #0761A1;
+    =======border: 2px solid #a10707;
+    >>>>>>>7c98e83212df7485a0ce3b3a54f34bb4d216b2a1 text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 14px;
     line-height: 18px;
@@ -342,12 +322,9 @@ iframe {
 .fs_style_60:hover,
 .fsStateSelected .fs_style_60 {
     background: #fff;
-<<<<<<< HEAD
-    color: #0761A1;
-=======
-    color: #a10707;
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
-    transition: .3s
+    <<<<<<< HEAD color: #0761A1;
+    =======color: #a10707;
+    >>>>>>>7c98e83212df7485a0ce3b3a54f34bb4d216b2a1 transition: .3s
 }
 
 .fs_style_60 em {
@@ -2205,16 +2182,16 @@ body:not(.fsComposeMode) .fsContent[class*=callout].image-right .fsElementHeader
 .nav-main .fsNavLevel1>li.on>a,
 .nav-main .fsNavLevel1>li:hover>a,
 .nav-main .fsNavLevel1>li[class*=fsNavCurrentPage]>a {
-    color: #a10707;
+    color: #0761a1;
     background: rgba(0, 0, 0, 0);
-    border-bottom-color: #a10707;
+    border-bottom-color: #0761a1;
 }
 
 .nav-main .fsNavLevel1>li>a {
     display: block;
     padding: 10px 8.5px 14px;
     text-align: center;
-    color: #0761a1;
+    color: #fff;
     background: rgba(0, 0, 0, 0);
     font-weight: 700;
     font-size: 14px;
@@ -2946,7 +2923,7 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
     font-size: 13px;
     line-height: 16px;
     letter-spacing: .5px;
-    color: #696969;
+    color: #fff;
     font-weight: 700
 }
 
@@ -3034,17 +3011,18 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
 }
 
 #fsHeader {
-    margin-top: 100px
+    margin-top: 100px;
+    color: #a10707;
 }
 
 #fsHeader .fsElement {
-    margin-bottom: 0
+    margin-bottom: 0;
 }
 
 #fsHeader .fixed-header {
     padding: 17px 10px 0;
     height: auto;
-    background-color: #fff;
+    background-color: #a10707;
     z-index: 10;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0);
     transition: all .5s ease;
@@ -3065,6 +3043,7 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
 
 .fsLiveMode #fsHeader .fixed-header {
     position: fixed;
+    color: #a10707;
     width: 100%;
     top: 0;
     left: 0
@@ -3180,7 +3159,7 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
 
 #fsHeader .portal-link a {
     display: inline-block;
-    background: #46773c;
+    background: #0761a1;
     color: #fff;
     border-radius: 3px;
     text-align: center;
@@ -3197,7 +3176,7 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
     line-height: 16px;
     letter-spacing: .5px;
     text-align: left;
-    border: 2px solid #46773c;
+    border: 2px solid #0761a1;
     text-transform: none
 }
 
@@ -3206,7 +3185,7 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
 #fsHeader .portal-link a:hover,
 .fsStateSelected #fsHeader .portal-link a {
     background: rgba(0, 0, 0, 0);
-    color: #46773c;
+    color: #0761a1;
     transition: .3s
 }
 
@@ -3253,9 +3232,9 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
     #fsHeader .site-info-container {
         display: inline-flex;
         width: 360px;
-        height: 60px;
+        height: 100px;
         margin: 0;
-        order: 0
+        order: 0;
     }
 }
 
@@ -3281,15 +3260,10 @@ html:not(.js) .nav-main .fsNavLevel1>li:hover>.fsNavPageInfo {
     left: 0;
     top: 0;
     color: rgba(0, 0, 0, 0);
-<<<<<<< HEAD
-    background-image: url(images/logo.png);
-=======
     background-image: url("images/logoh.png");
->>>>>>> 7c98e83212df7485a0ce3b3a54f34bb4d216b2a1
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 50%;
-    align-items: left;
 }
 
 #fsHeader .site-info-container a:hover {
@@ -8232,6 +8206,11 @@ input[name*=passkey]+.fsLoginSubmit {
     .why-westridge .image-slider .fsThumbnail {
         height: 575px
     }
+}
+
+.fsThumbnail .fsPostLink .fsPostBackgroundThumbnail {
+    width: 484px;
+    background-image: url(assets\img\image2.png);
 }
 
 .why-westridge .image-slider .fsThumbnail img {

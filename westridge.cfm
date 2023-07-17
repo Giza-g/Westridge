@@ -427,7 +427,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 										<div class="fsElementContent" >
 											<nav>
 												<ul class="fsNavLevel1">
-													<li class="fsNavParentPage"><a href="/about">About</a>
+													<li class="fsNavParentPage"><a href="about.cfm">About</a>
 														<div class="fsNavPageInfo">
 															<ul class="fsNavLevel2">
 																<li><a href="/about">About Us</a></li>
@@ -571,7 +571,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 											<figure class="fsImage" id="image-container">
 												<picture>
 													<!--- <img alt="Westridge School: All Girls School Los Angeles" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1686006592/westridge/ewatxrq8zpu00npeqkhy/top-homepage-transparent2.gif%22,%22width%22:700}]" data-resource-description="" data-resource-filename="top-homepage-transparent2.gif" data-resource-uuid="6387c365-75c1-45ba-9c71-06b5b10691d7" id="" src="" style="margin-top: 25px;" />  --->
-													<img src="assets\img\image1.jpg"/>
+													<img src="assets\img\image2.png"/>
 												</picture>
 											</figure>
 										</div>
@@ -591,23 +591,26 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 									<div class="fsElementContent" >
 										<div class="fsListItems">
 											<article class="fsStyleAutoclear fsBoard-3" data-post-id="6" data-authenticated-comments="true" aria-labelledby="fsArticle_1658_6">
-												<div class="fsThumbnail fsPostLink fsPostBackgroundThumbnail" 
+
+												<div class="fsThumbnail fsPostLink fsPostBackgroundThumbnail" <!---
+												 data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:256},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:512},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:800},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1200},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1600},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:2000}]" --->
+												data-aspect-ratio="0.712" >
+												<img data-aspect-ratio="0.712" src="assets\img\image2.png" <!---
 												data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:256},
 												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:512},
 												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:800},
 												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1200},
 												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1600},
-												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:2000}]" 
-												data-aspect-ratio="0.712">
-												<img data-aspect-ratio="0.712" 
-												data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:256},
-												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:512},
-												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:800},
-												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1200},
-												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:1600},
-												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:2000}]"
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545366/westridge/ttsfuoqiymto3y47yogu/why-westridge.jpg&quot;,&quot;width&quot;:2000}]" --->
 												 alt="Westridge School: Private School in San Fernando Valley" />
+												 <img src="assets\img\image2.jpg">
 												</div>
+
 												<div class="fsTitle " id="fsArticle_1658_6">
 													Because our approach is unique.
 												</div>
@@ -617,7 +620,25 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 												</div>
 											</article>
 											<article class="fsStyleAutoclear fsBoard-3" data-post-id="5" data-authenticated-comments="true" aria-labelledby="fsArticle_1658_5">
-												<div class="fsThumbnail fsPostLink fsPostBackgroundThumbnail" data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:256},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:512},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:800},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:1200},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:1600},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:2000}]" data-aspect-ratio="0.6665"><img data-aspect-ratio="0.6665" data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:256},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:512},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:800},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:1200},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:1600},{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:2000}]" alt="Westridge Upper School: Best Private Schools in Pasadena" /></div>
+
+												<div class="fsThumbnail fsPostLink fsPostBackgroundThumbnail" <!---
+												data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:256},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:512},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:800},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:1200},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:1600},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:2000}]" --->
+												data-aspect-ratio="0.6665">
+												<img data-aspect-ratio="0.6665" src="assets\img\image2.png" <!---
+												data-image-sizes="[{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:256},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:512},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:800},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:1200},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:1600},
+												{&quot;url&quot;:&quot;https://resources.finalsite.net/images/f_auto,q_auto/v1593545451/westridge/hfi6q3k9suhb6je8kpee/our-approach.jpg&quot;,&quot;width&quot;:2000}]" --->
+												alt="Westridge Upper School: Best Private Schools in Pasadena" />
+											    </div>
+
 												<div class="fsTitle " id="fsArticle_1658_5">
 													Because children are the future.
 												</div>
@@ -637,7 +658,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 												<div class="fsElementHeaderContent">
 													<figure class="fsImage">
 														<picture>
-															<img alt="Westridge All Girls School: Social Emotional Learning" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593480764/westridge/fxxc3hhbzbpwavq1dmpj/homeicon-sel.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593480764/westridge/fxxc3hhbzbpwavq1dmpj/homeicon-sel.png%22,%22width%22:389}]" data-resource-description="" data-resource-filename="homeicon-sel.png" data-resource-uuid="c9e0887b-ec3c-4179-b4fa-935c8f405b66" id="" src="" />
+															<img alt="Westridge School: Social Emotional Learning" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593480764/westridge/fxxc3hhbzbpwavq1dmpj/homeicon-sel.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593480764/westridge/fxxc3hhbzbpwavq1dmpj/homeicon-sel.png%22,%22width%22:389}]" data-resource-description="" data-resource-filename="homeicon-sel.png" data-resource-uuid="c9e0887b-ec3c-4179-b4fa-935c8f405b66" id="" src="" />
 														</picture>
 													</figure>
 													<p><a data-page-name="Student Support &amp; Wellness" href="/fs/pages/354">Student Support &amp; Wellness</a></p>
@@ -655,7 +676,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 												<div class="fsElementHeaderContent">
 													<figure class="fsImage">
 														<picture>
-															<img alt="Westridge All Girls Private School: Performing and Visual Arts" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593480927/westridge/dvb1otsoqo6ysxtvi9d8/homeicon-arts.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593480927/westridge/dvb1otsoqo6ysxtvi9d8/homeicon-arts.png%22,%22width%22:389}]" data-resource-description="" data-resource-filename="homeicon-arts.png" data-resource-uuid="30efbdee-83aa-4bbc-bda5-0c738d3ca168" id="" src="" />
+															<img alt="Westridge School: Performing and Visual Arts" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593480927/westridge/dvb1otsoqo6ysxtvi9d8/homeicon-arts.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593480927/westridge/dvb1otsoqo6ysxtvi9d8/homeicon-arts.png%22,%22width%22:389}]" data-resource-description="" data-resource-filename="homeicon-arts.png" data-resource-uuid="30efbdee-83aa-4bbc-bda5-0c738d3ca168" id="" src="" />
 														</picture>
 													</figure>
 													<p><a data-page-name="About Visual &amp; Performing Arts" href="/fs/pages/364">Visual &amp; Performing Arts</a></p>
@@ -672,7 +693,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 												<div class="fsElementHeaderContent">
 													<figure class="fsImage">
 														<picture>
-															<img alt="Westridge All Girls Private School LA: Athletics" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593480990/westridge/swq6hahvlztj0rbnlwp8/homeicon-athletics.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593480990/westridge/swq6hahvlztj0rbnlwp8/homeicon-athletics.png%22,%22width%22:389}]" data-resource-description="" data-resource-filename="homeicon-athletics.png" data-resource-uuid="17d244de-dac9-44ad-b87e-bb009ada6c3a" id="" src="" />
+															<img alt="Westridge School Thika: Athletics" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593480990/westridge/swq6hahvlztj0rbnlwp8/homeicon-athletics.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593480990/westridge/swq6hahvlztj0rbnlwp8/homeicon-athletics.png%22,%22width%22:389}]" data-resource-description="" data-resource-filename="homeicon-athletics.png" data-resource-uuid="17d244de-dac9-44ad-b87e-bb009ada6c3a" id="" src="" />
 														</picture>
 													</figure>
 													<p><a data-page-name="About Tiger Athletics" href="/fs/pages/371">Athletics</a></p>
@@ -688,7 +709,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 												<div class="fsElementHeaderContent">
 													<figure class="fsImage">
 														<picture>
-															<img alt="Westridge All Girls Private School in Pasadena: Virtual Tour" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593481025/westridge/isxlecmlyuz4k7bvzokc/homeicon-virtual-tour.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593481025/westridge/isxlecmlyuz4k7bvzokc/homeicon-virtual-tour.png%22,%22width%22:389}]" data-resource-description="" data-resource-filename="homeicon-virtual-tour.png" data-resource-uuid="7867ac58-f9d3-44a8-a2e0-d9076e12f4cc" id="" src="" />
+															<img alt="Westridge School in Thika: Virtual Tour" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593481025/westridge/isxlecmlyuz4k7bvzokc/homeicon-virtual-tour.png%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593481025/westridge/isxlecmlyuz4k7bvzokc/homeicon-virtual-tour.png%22,%22width%22:389}]" data-resource-description="" data-resource-filename="homeicon-virtual-tour.png" data-resource-uuid="7867ac58-f9d3-44a8-a2e0-d9076e12f4cc" id="" src="" />
 														</picture>
 													</figure>
 													<p><a data-page-name="Visit Us" href="/fs/pages/343">Visit&nbsp;Us</a></p>
@@ -815,9 +836,10 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 									</div>
 									<footer>
 										<div class="fsElementFooterContent">
-											<figure class="fsImage">
+											<figure class="fsImage" id="image-container">
 												<picture>
-													<img alt="Westridge All Girls Private School Pasadena: Athletics" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:2000}]" data-resource-description="" data-resource-filename="take-the-next-steps.jpg" data-resource-uuid="5b655677-ab66-413a-86dd-87d74935fe99" id="" src="" />
+													<img src="assets\img\image4.png" />
+													<!--- <img alt="Westridge All Girls Private School Pasadena: Athletics" data-image-sizes="[{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_1/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:256},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:512},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_3/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:800},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_4/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:1200},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_5/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:1600},{%22url%22:%22https://resources.finalsite.net/images/f_auto,q_auto/v1593545806/westridge/hzgrrzpzj75ffi0ew40c/take-the-next-steps.jpg%22,%22width%22:2000}]" data-resource-description="" data-resource-filename="take-the-next-steps.jpg" data-resource-uuid="5b655677-ab66-413a-86dd-87d74935fe99" id="" src="assets\img\image2.jpg" /> --->
 												</picture>
 											</figure>
 										</div>
@@ -835,7 +857,7 @@ src=https://www.facebook.com/tr?id=3732051216810390&ev=PageView&noscript=1
 						<div class="fsElementContent" >
 							<div class="fsElement fsContent" id="fsEl_1625" data-use-new="true" >
 								<div class="fsElementContent" >
-									<p>324 Madeline Drive, Pasadena, California 91105<br />
+									<p>324 Madeline Drive, Thika, Kiambu 91105<br />
 										Phone: 626.799.1153 | Fax: 626.799.9236</p>
 										<p><a data-page-name="Contact" href="/fs/pages/381">Contact Us</a></p>
 								</div>
